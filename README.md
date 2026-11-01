@@ -1,5 +1,19 @@
 # 🔎 AI Website Summarizer
 
+The internet contains billions of websites, making manual content review and classification practically impossible.
+
+I built a lightweight AI Website Summarizer that converts website content into concise summaries.
+
+The bigger idea is interesting:
+* ✅ Content classification
+* ✅ Risk detection
+* ✅ Website tagging
+* ✅ Large-scale web intelligence
+* ✅ Automated content monitoring
+
+This project explores the intersection of Backend Engineering, Distributed Systems, and AI-powered content processing.
+* 🔗 DNS data: https://ip.thc.org/
+
 A simple AI-powered tool that generates concise summaries from website URLs.
 
 ![img.png](img.png)

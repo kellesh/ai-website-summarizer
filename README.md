@@ -22,3 +22,53 @@ Reading long articles, blogs, and documentation can be time-consuming. This tool
 - Gradio
 - BeautifulSoup / Requests
 - AI Summarization Engine
+
+
+
+## Project Structure
+
+```text
+.
+├── src/app.py
+├── src/summarizer.py
+├── src/requirements.txt
+└── README.md
+```
+
+## Installation
+
+```bash
+git clone https://github.com/<username>/ai-website-summarizer.git
+
+cd ai-website-summarizer
+
+python -m venv venv
+
+# Linux/Mac
+source venv/bin/activate
+
+# Windows
+venv\Scripts\activate
+
+pip install -r requirements.txt
+```
+
+## Run Application
+
+```bash
+python app.py
+```
+
+Open:
+
+```text
+http://localhost:7860
+```
+
+## Usage
+
+1. Enter a website URL.
+2. Click **🚀 Summarize**.
+3. Wait for processing to complete.
+4. Review the generated summary.
+5. Use the History panel to revisit previous summaries.
